@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Shade');
+
+html, body{
+	height: 100%;
+	font-family: 'Bungee Shade', cursive;
+}
+
+#container{
+	font-size: 70px;
+	text-align: center;
+	position: relative;
+	color: white;
+	top: 50%;
+	margin-top: -45px
+	
+}
+.myName{
+	color: white;
+	text-align: center;
+	position: relative;
+	margin-top: 100px;
+	margin-bottom: -200px;
+}
+
+.myName > h1{
+	font-size: 70px;
+}
